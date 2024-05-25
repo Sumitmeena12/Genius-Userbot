@@ -12,7 +12,7 @@ Dragon-Userbot is an advanced & powerful multi-featured Telegram userbot.
 <img src="AdityaHalder/resource/images/Heroku.svg" alt="Deploy to Heroku"></a>
 </p>
 
-<h2>🤖 Genius-Userbot Info</h2>
+<h2>🤖 Dragon-Userbot Info</h2>
 <p title="Dragon-Userbot">Genius-Userbot is an open-source Telegram userbot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
 
 > [!IMPORTANT]
