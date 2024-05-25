@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Sumitmeena12/Genius-Userbot"><img src="https://graph.org/file/f4e175b28e96bc3fb4cf4.jpg" height="270" width="480" alt="Dragon-Userbot"/></a>
+<a href="https://github.com/Sumitmeena12/Genius-Userbot"><img src="https://telegra.ph/file/a3f0b11c9778742cb973a.jpg" height="270" width="480" alt="Dragon-Userbot"/></a>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@ Dragon-Userbot is an advanced & powerful multi-featured Telegram userbot.
 <p title="Dragon-Userbot">Genius-Userbot is an open-source Telegram userbot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
 
 > [!IMPORTANT]
-> If you use Genius-Userbot, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/adityaserver) to learn about Genius-Userbot.
+> If you use Dragon-Userbot, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/dragondpworld) to learn about Dragon-Userbot.
 
 <h2>🤝 Contributing</h2>
-<p title="Contributing">As Genius-Userbot is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
+<p title="Contributing">As Dragon-Userbot is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
 
 <h2>🌐 Updates & Support</h2>
-<p title="Support">You can join Genius-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
+<p title="Support">You can join Dragon-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
 
 - Telegram Updates: [**`@dragonServer`**](https://t.me/dragondpworld)
 
