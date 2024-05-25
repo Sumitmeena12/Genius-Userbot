@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/Genius-Userbot"><img src="https://graph.org/file/f4e175b28e96bc3fb4cf4.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
+<a href="https://github.com/Sumitmeena12/Genius-Userbot"><img src="https://graph.org/file/f4e175b28e96bc3fb4cf4.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
