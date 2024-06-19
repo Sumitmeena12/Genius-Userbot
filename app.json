@@ -38,7 +38,7 @@
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "",
+            "value": "-1002178431480",
             "required": true
         }
     },
